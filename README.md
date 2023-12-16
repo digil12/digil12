@@ -1,4 +1,7 @@
-### Hi there 👋
+![digilectual_letterhead_logo_smaller](https://github.com/digil12/digil12/assets/49650314/b5d356ed-e923-43ca-9000-bb873d85704f)
+
+DigiLectual creates innovative and valuable digital intellectual property.
+
 
 <!--
 **digil12/digil12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
